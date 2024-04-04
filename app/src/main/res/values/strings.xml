@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kimathi Polls</string>
+    <string name="login">Login</string>
+    <string name="email_required">Email or Registration Number (Required)</string>
+    <string name="user_email_com">user@email.com</string>
+    <string name="password_required">Password (Required)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+
+    <string-array name="certificate_options">
+        <item>Degree</item>
+        <item>Certificate</item>
+        <item>Diploma</item>
+        <item>Masters</item>
+        <item>PhD</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "292509668283",
+    "firebase_url": "https://kimathi-polls-default-rtdb.firebaseio.com",
+    "project_id": "kimathi-polls",
+    "storage_bucket": "kimathi-polls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292509668283:android:a35bd19beee55a32342a9e",
+        "android_client_info": {
+          "package_name": "com.example.kimathi_polls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fHmbMyN3CnEG3Fuq7dX5X0FSp4WzYCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary"
+    >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="48dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@mipmap/voting_logo" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+    android:id="@+id/profile_photo"
+    android:layout_width="50dp"
+    android:layout_height="46dp"
+    android:layout_alignParentEnd="true"
+    android:layout_marginEnd="0dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:src="@drawable/ic_default_profile"
+    app:civ_border_color="#FF000000"
+    app:civ_border_width="1dp" />
+</RelativeLayout>

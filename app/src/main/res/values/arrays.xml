@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="schools"><![CDATA[Computer Science & IT]]></string-array>
+    <string-array name="courses">
+        <item>Computer Science and IT</item>
+        <item>Business and Finance</item>
+        <item>Engineering</item>
+        <item>Medicine</item>
+        <item>Law</item>
+        <item>Hospitality and Catering</item>
+    </string-array>
+
+    <string-array name="positions">
+        <item>President</item>
+        <item>Vice President</item>
+        <item>Secretary General</item>
+        <item>Treasurer</item>
+        <item>Representative</item>
+        <item>Delegate</item>
+    </string-array>
+
+    <string-array name="violations">
+        <item>Dual Registration</item>
+        <item>Hate Speech</item>
+        <item>Impersonation</item>
+        <item>Cyber Crime</item>
+        <item>Bribery</item>
+        <item>Intimidation</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="action_status">
+        <item>Pending Review</item>
+        <item>Under Investigation</item>
+        <item>Resolved</item>
+    </string-array>
+
+    <string-array name="action_taken">
+        <item>Suspended</item>
+        <item>Warned</item>
+        <item>Acquitted</item>
+        <item>No Action</item>
+        <item>Banned</item>
+    </string-array>
+
+    <string-array name="action_expiry_date">
+    <item>0</item> <!-- 0 minutes -->
+    <item>1440</item> <!-- 1 day -->
+    <item>43200</item> <!-- 1 month (approx) -->
+    <item>86400</item> <!-- 2 months (approx) -->
+    <item>129600</item> <!-- 3 months (approx) -->
+    <item>259200</item> <!-- 6 months (approx) -->
+    <item>525600</item> <!-- 1 year (approx) -->
+    <item>1051200</item> <!-- 2 years (approx) -->
+    <item>1576800</item> <!-- 3 years (approx) -->
+    <item>2628000</item> <!-- 5 years (approx) -->
+    <item>5256000</item> <!-- 10 years (approx) -->
+    <item>26280000</item> <!-- 50 years (approx) -->
+</string-array>
+
+    <string-array name="action_justification">
+        <item>Minor Offense</item>
+        <item>First Time Offense</item>
+        <item>Insufficient Evidence</item>
+        <item>Under Investigation</item>
+        <item>Gross Violation</item>
+    </string-array>
+
+</resources>
